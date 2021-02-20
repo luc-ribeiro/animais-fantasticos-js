@@ -1,14 +1,10 @@
 {
-  "name": "animais-fantasticos2",
+  "name": "animais-fantasticos",
   "version": "1.0.0",
-  "description": "",
-  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack --mode development --watch",
     "build": "webpack --mode production"
   },
-  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.12.17",
