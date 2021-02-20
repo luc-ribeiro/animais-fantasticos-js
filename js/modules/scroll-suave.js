@@ -3,8 +3,8 @@ export default class ScrollSuave {
     this.linksInternos = document.querySelectorAll(links);
     if (options === undefined) {
       this.options = {
-        behavior: 'smooth', block: 'start'
-      }
+        behavior: 'smooth', block: 'start',
+      };
     } else {
       this.options = options;
     }
@@ -26,7 +26,7 @@ export default class ScrollSuave {
 
   init() {
     if (this.linksInternos.length) {
-      this.addLinkEvent()
+      this.addLinkEvent();
     }
     return this;
   }
