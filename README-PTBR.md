@@ -22,7 +22,7 @@ Tem como objetivo implementar as interações possíveis utilizando JavaScript E
 
 ## 🔖 Preview
 
-<a href="https://luc-ribeiro.github.io/animais-fantasticos/">Live Preview</a>
+<a href="https://luc-ribeiro.github.io/animais-fantasticos-js/" target="_blank">Live Preview</a>
 <br>
 <br>
 Screenshots podem ser vistas acessando a pasta `./design`
