@@ -1,58 +1,67 @@
-# Animais Fantásticos
+<div align="center">
+  <h1>
+  Fantastic Animals
+  </h1>
+</div> 
+
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/animais-fantasticos-js/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
+
+<br>
+<br>
 
 ![banner](https://github.com/luc-ribeiro/animais-fantasticos/blob/master/design/mockup.gif?raw=true)
 
-## 💻 Projeto
-Animais Fantásticos é um site desenvolvido no curso de JavaScript ES6+ completo pela Origamid.
+## 💻 Project
+
+Fantastic Animals is a website developed using pure HTML, CSS, and JavaScript.
+The purpose was to implement possible interactions using JavaScript ES6+.
+
 <br>
-<a href="https://luc-ribeiro.github.io/animais-fantasticos/">Live Preview</a>
 
-### 🔖 Previews
+## 🔖 Preview
 
-Screens das telas encontram-se na pasta `./design`
+<a href="https://luc-ribeiro.github.io/animais-fantasticos-js">Live Preview</a>
+<br>
+<br>
+Screenshots can be viewed by accessing the `./design` folder.
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
 <div style="display: inline_block">
 	<img align="center" alt="Luc-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Luc-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Luc-JS" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" alt="Luc-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
- <img align="center" alt="Luc-Webpack" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" />
- <img  align="center" alt="Luc-Babel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
+	<img align="center" alt="Luc-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+	<img align="center" alt="Luc-NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/animais-fantasticos.git
+  $ git clone https://github.com/luc-ribeiro/animais-fantasticos-js.git
 ```
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto com o comando:
+Start the project with the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm run dev
 
-  # com yarn
+  # with yarn
   $ yarn run dev
 ```
 
-Acesse o projeto abrindo o arquivo **index.html** no seu navegador.
-
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Origamid
+Access the project by opening the **index.html** file in your browser.
